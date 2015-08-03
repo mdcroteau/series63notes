@@ -117,3 +117,18 @@ Chapter 4: Ethical Practices and Fiduciary Obligations
 •	
 4.9 Currency Transaction Reports (CTRS)
 •	
+* Test Questions
+* Under the USA, the Administrator has a broad investigative authority and may begin an investigation against a registrant before a violation has occurred, and may subpoena witnesses in any state.
+* Under USA the investment firm in question has to have <100mm
+* If you need to prove that your secuities are exempt the burden of proof is on the company
+* You can request a trade be recinded if your trade was done in violation of USA
+* Non issuer Transaction: when the issuer is not involved in the trade eg BD A selling shares of dell to BD B 
+* An exempt transaction is the sale of a corporate bond on behalf of the bond's issuer
+* if you get insider trading information the best thing to do is contact your Supervisor
+* An agent can sell different sequrities if the broker-dealers are under common control
+* Even though federal securities are exempt from registration they can be required to file state filing fees
+* A Canadian government bond maturing in 10 years is an exempt security ut not an exempt transaction... READ THE QUESTION 
+* When an investment advisory service reaches the threshold of 110 million the firm has 90 days to register with the SEC
+* An example of something that is not exempt from registration requirements are: Solicited transactions in a nonexempt security 
+* A State Securities Adminsiter has the authority to make, amend, or rescind rules, forms and orders necessary to administer USA 
+* 
