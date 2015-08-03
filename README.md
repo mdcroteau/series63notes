@@ -48,13 +48,21 @@ o	Cold Callers (even summer interns) are considered agents and need to be regist
 •	Note:
 o	Persons who buy and sell securities for their own accounts are not broker dealers as they are doing it for themselves not anyone else
 •	Broker dealers who meet the SEC’s net capital or bonding requirements cannot be required to meet higher ones in any state they do business
-•	
+•	an employee of an issuer is not an agent when representing an issuer if the isse is exempt from registration
+* if employees are compensated on the basis of number of shares sold they would be defined as agents and therefor would be subject to number of shares sold 
+* Agents file U4
+* They disclose their citizenship
+* when an agent shifts employment from one broker-dealer to another, all three persons (empolyer, agent, new employer) must notify the administratior 
+* Renewal applications for canadian BD's and agents who file for limited registration must be filed before Dec 1st each year
+* a person selling their owns bank's securities is NOT an agent
+* a person who represents an issuer in effecting transations with underwriters is NOT an Agent
 1.3 Investment Advisor 
 •	Investment Adviser 
 o	Any person who (for compensation) engages in the business of advertising others through publications in writings to sell/advise investing in/ purchasing or selling securities
 o	Registered in either states or with the SEC 
 	NOT both 
-•	
+•	In most cases investment advisors are legal persons, such as a partnership or corpration, that provide investment advice or portfolio managment services on an ongoing buisness
+
 1.4 Investment Advisor Representative 
 •	
 1.5 Summery of the Four Securities professionals
