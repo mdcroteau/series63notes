@@ -62,8 +62,17 @@ o	Any person who (for compensation) engages in the business of advertising other
 o	Registered in either states or with the SEC 
 	NOT both 
 •	In most cases investment advisors are legal persons, such as a partnership or corpration, that provide investment advice or portfolio managment services on an ongoing buisness
-*1A-1092
-**ad
+* 1A-1092
+* A sports agent who secures a favorable contrat for a player and recives a commission of 10% is not necessarily an investment adviser. 
+** If the advisor advises him on how to do invest his money he would then be subject to the Investment Advisors Act of 1940
+* A person is in the buisness of giving advice if he recives separate compensation that represents a charg for giving the advice 
+* Broker Dealers are in the business of selling people stocks etc so they are exempt from the definition of IA
+* For test exceptions = exclusions
+* a bank does not include a savings and loan association nor a foreign bank
+* National securities Markets Improvment Act of 1996 (NSMIA
+* Made advisors register with the SEC as Federal covered investment advisers or sometimes on the exam as just "covered advisors" 
+* 
+* 
 1.4 Investment Advisor Representative 
 •	
 1.5 Summery of the Four Securities professionals
