@@ -56,6 +56,7 @@ o	Persons who buy and sell securities for their own accounts are not broker deal
 * Renewal applications for canadian BD's and agents who file for limited registration must be filed before Dec 1st each year
 * a person selling their owns bank's securities is NOT an agent
 * a person who represents an issuer in effecting transations with underwriters is NOT an Agent
+* Only Parents/Parents in law are considered family 
 1.3 Investment Advisor 
 •	Investment Adviser 
 o	Any person who (for compensation) engages in the business of advertising others through publications in writings to sell/advise investing in/ purchasing or selling securities
