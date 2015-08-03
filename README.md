@@ -62,7 +62,8 @@ o	Any person who (for compensation) engages in the business of advertising other
 o	Registered in either states or with the SEC 
 	NOT both 
 •	In most cases investment advisors are legal persons, such as a partnership or corpration, that provide investment advice or portfolio managment services on an ongoing buisness
-
+*1A-1092
+**ad
 1.4 Investment Advisor Representative 
 •	
 1.5 Summery of the Four Securities professionals
